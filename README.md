@@ -32,7 +32,7 @@ A collection of my C programming exercises, HackerRank solutions, and beginner-l
 **Infosys Springboard – Introduction to Unix**
 
 - Issued: November 16, 2026
-- [📜 View Certificate](certificates/Introduction-to-Unix-Infosys.png)
+- [📜 View Certificate](Introduction-to-Unix-Infosys.png.pdf)
 
 ### 📊 My GitHub Journey
 
@@ -43,7 +43,6 @@ A collection of my C programming exercises, HackerRank solutions, and beginner-l
 
 ### 🤝 Connect With Me
 
-- GitHub: [@kushalbabu-DEV](https://github.com/kushalbabu-DEV)
 - Email: [kushalbabu62@gmail.com](mailto:kushalbabu62@gmail.com)
 
 ---
