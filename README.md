@@ -9,6 +9,7 @@
 🛠️ Building beginner projects, exploring programming concepts, and documenting my learning journey.
 
 💡 Interested in:
+
 - Software Development
 - Embedded Systems
 - Artificial Intelligence & Machine Learning
@@ -22,9 +23,16 @@
 
 ### 🚀 Featured Project
 
-**[C Programming Journey](https://github.com/kushalbabu-DEV/c-programming-journey)**
+[**C Programming Journey**](https://github.com/kushalbabu-DEV/c-programming-journey)
 
 A collection of my C programming exercises, HackerRank solutions, and beginner-level projects as I learn programming from scratch.
+
+### 🏆 Certifications
+
+**Infosys Springboard – Introduction to Unix**
+
+- Issued: November 16, 2026
+- [📜 View Certificate](certificates/Introduction-to-Unix-Infosys.png)
 
 ### 📊 My GitHub Journey
 
@@ -36,7 +44,7 @@ A collection of my C programming exercises, HackerRank solutions, and beginner-l
 ### 🤝 Connect With Me
 
 - GitHub: [@kushalbabu-DEV](https://github.com/kushalbabu-DEV)
-- Email: kushalbabu62@gmail.com
+- Email: [kushalbabu62@gmail.com](mailto:kushalbabu62@gmail.com)
 
 ---
 
